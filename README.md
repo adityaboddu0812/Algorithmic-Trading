@@ -13,6 +13,11 @@
 
 ---
 
+## 🔗 Live Project  
+👉 [https://algorithmic-trading-fawn.vercel.app](https://algorithmic-trading-fawn.vercel.app)
+
+---
+
 ## 🌟 Overview
 
 This project is an end-to-end system for researching, simulating, and analyzing algorithmic crypto trading strategies.  
